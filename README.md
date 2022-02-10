@@ -1,7 +1,7 @@
 # GIT- coursework
 # Anna
 
-![Flowers](img/112.JPG)
+![112.JPG](img/112.JPG)
 
 *Anna* - an English-German teacher from China
 Teaching online and offline
