@@ -1,7 +1,7 @@
 # GIT- coursework
 # Anna
 
-![flowers](img:/112.JPG)
+![flowers](https://github.com/gadfly43/GIT-Coursework/blob/master/img:/112.JPG)
 
 *Anna* - an English-German teacher from China
 ## Teaching online and offline
